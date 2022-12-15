@@ -1,0 +1,28 @@
+id: I9732B30F
+default_language: en
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-15 07:23:12.656207+00:00
+last_modified: 2022-12-15 07:23:12.656213+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2019-01-30T02:39:49.589Z'
+  creationid: TF
+  eft-text-id: UT22084-062-012
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_212-The_Sutra_on_Dependent_Arising-v1
+bases:
+  16D4:
+    source_metadata: null
+    order: 1
+    base_file: 16D4.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
